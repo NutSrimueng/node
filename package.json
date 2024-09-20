@@ -1,0 +1,14 @@
+{
+  "name": "pro",
+  "version": "1.0.0",
+  "description": "Nut mini project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nut",
+  "license": "ISC",
+  "dependencies": {
+    "mailchecker": "^6.0.9"
+  }
+}
